@@ -1,4 +1,1 @@
-learnyounode
-============
-
-learnyounode
+Working through exercises on nodeschool.io
