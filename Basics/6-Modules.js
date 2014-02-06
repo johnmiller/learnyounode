@@ -1,4 +1,4 @@
-var filter = require('./6module');
+var filter = require('./FilterModule');
 var directory = process.argv[2];
 var extension = process.argv[3];
 
